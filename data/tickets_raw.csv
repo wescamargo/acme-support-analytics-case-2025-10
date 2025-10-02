@@ -1,0 +1,515 @@
+ticket_id,created_at,resolved_at,status,channel,creator_id,tag,first_response_time,message_text
+1,2023-10-05 14:30,2023-10-05 15:07,resolved,email,202,Acesso,10,Estou tendo dificuldades para acessar minha conta. A senha não está sendo aceita.
+2,2023-10-05 14:30,2023-10-05 15:40,resolved,email,202,Checkout,15,Estou tendo problemas para finalizar a compra do meu produto. O sistema diz que ocorreu um erro no checkout.
+3,2023-10-15 14:30,2023-10-15 15:19,resolved,email,205,Acesso,12,"Estou tendo dificuldades para fazer login na minha conta, não consigo redefinir minha senha."
+4,2023-10-01 14:20,2023-10-01 15:52,resolved,email,202,Assinatura,5,"Estou tendo problemas para fazer o upgrade do meu plano de assinatura, não consigo acessar as opções."
+5,2023-10-13 15:30,2023-10-13 16:08,resolved,email,202,Checkout,0,"Estou tendo problemas para completar a compra na minha loja, o sistema retorna erro na finalização."
+6,2023-10-10 14:30,2023-10-10 14:52,resolved,email,200,Conta,15,Estou tendo dificuldade para atualizar as informações do meu perfil. Alguém pode me ajudar?
+7,2023-10-05 14:30,2023-10-05 15:37,resolved,email,205,Dúvidas Gerais,5,Gostaria de saber quais são os recursos disponíveis na plataforma para os novos criadores.
+8,2023-10-04 14:30,2023-10-04 15:21,resolved,email,205,Financeiro,12,Estou com dificuldades para entender meu extrato financeiro do mês passado.
+9,2023-10-18 14:35,,pending,email,202,Integrações,15,Estou tendo dificuldades para integrar minha conta a um plugin de terceiros. Pode me ajudar?
+10,2023-10-10 14:30,2023-10-10 16:06,resolved,email,205,Membros gratuitos,15,Estou tendo dificuldades para entender como funciona a limitação de recursos para membros gratuitos na plataforma.
+11,2023-10-10 14:35,2023-10-10 15:10,resolved,email,205,Migração,12,Estou com dificuldades para migrar o conteúdo da minha antiga plataforma para a nova. Poderiam me ajudar?
+12,2025-09-01 14:30,2025-09-01 15:49,resolved,email,203,Pagamento,0,Estou tendo problemas para processar um pagamento com meu cartão de crédito. Poderiam ajudar?
+13,2024-03-15 14:30,2024-03-15 15:27,resolved,email,205,Prevenção,0,Recebi uma notificação sobre a suspeita de fraude na minha conta e gostaria de entender melhor o que está acontecendo.
+14,2023-10-20 15:30,2023-10-20 16:08,resolved,email,204,Produto,12,Estou enfrentando dificuldades para acessar a nova funcionalidade de análise de dados. Poderiam me ajudar?
+15,2023-10-02 15:45,2023-10-02 16:05,resolved,email,205,Reembolso,12,"Solicitei um reembolso na última semana, mas ainda não recebi a confirmação. Poderiam ajudar?"
+16,2023-10-03 14:27,2023-10-03 14:55,resolved,email,202,Integrações,0,Estou com dificuldades para integrar minha conta com a ferramenta de e-mail marketing.
+17,2023-10-15 14:30,,pending,email,202,Membros gratuitos,0,Estou com dificuldades em gerenciar as limitações dos meus membros gratuitos. Como posso ajudar eles a acessar mais funções?
+18,2023-10-05 14:30,2023-10-05 14:53,resolved,email,203,Migração,0,Estou tendo dificuldades para migrar meus dados de outra plataforma para cá. Poderiam me ajudar?
+19,2023-10-05 14:30,2023-10-05 15:21,resolved,email,205,Pagamento,12,Estou tendo dificuldades para processar um pagamento com meu cartão de crédito. Pode ajudar?
+20,2023-10-05 14:30,,pending,email,201,Prevenção,10,"Recebi um alerta sobre conteúdo potencialmente problemático, mas não sei como resolver isso."
+21,2023-10-15 14:30,2023-10-15 14:41,resolved,email,205,Produto,5,Estou tendo dificuldades para entender como funciona a nova funcionalidade de análise de dados na plataforma.
+22,2023-10-15 14:20,2023-10-15 15:00,resolved,email,305,Produto,0,"Gostaria de sugerir uma nova funcionalidade para o meu canal, como a opção de agendar postagens."
+23,2023-10-13 14:30,2023-10-13 15:59,resolved,email,202,Produto,15,Estou tendo dificuldades com a nova funcionalidade de personalização de temas no meu perfil.
+24,2023-10-05 14:30,,pending,email,205,Produto,0,Estou com dificuldades para usar a nova funcionalidade de análise de dados. Poderiam me ajudar?
+25,2023-10-01 14:30,2023-10-01 14:50,resolved,email,205,Reembolso,5,Solicitei um reembolso há uma semana e ainda não recebi nenhuma atualização.
+26,2023-10-10 14:20,,pending,email,102,Membros gratuitos,0,Quero entender melhor quais são as limitações dos usuários gratuitos na minha conta.
+27,2023-10-18 14:22,2023-10-18 15:50,resolved,email,302,Reembolso,10,"Solicitei um reembolso na semana passada, mas ainda não recebi nenhuma confirmação."
+28,2023-10-10 09:45,2023-10-10 10:08,resolved,email,205,Integrações,15,Estou com dificuldades para integrar minha conta com a API do Instagram. Alguma sugestão?
+29,2023-10-05 14:22,,pending,email,204,Produto,10,Estou tendo dificuldades para adicionar novos produtos à minha loja. O botão não está respondendo.
+30,2023-10-05 14:20,2023-10-05 14:45,resolved,email,204,Reembolso,10,Solicitei um reembolso há uma semana e ainda não tive retorno sobre o andamento do processo.
+31,2023-10-16 14:30,,pending,email,204,Membros gratuitos,7,Gostaria de saber mais sobre as funcionalidades disponíveis para os membros gratuitos na plataforma.
+32,2023-10-10 15:30,2023-10-10 16:37,resolved,email,202,Reembolso,5,Solicitei um reembolso há uma semana e ainda não obtive resposta. Poderiam me ajudar?
+33,2023-10-10 14:20,,pending,email,250,Conta,15,Estou com dificuldades para atualizar as informações do meu perfil na conta.
+34,2023-10-04 14:30,2023-10-04 14:55,resolved,email,207,Conta,10,"Preciso atualizar as informações da minha conta, mas não consigo acessar as configurações."
+35,2023-10-12 14:30,2023-10-12 15:03,resolved,email,202,Integrações,12,Estou tendo dificuldades para integrar a plataforma com meu sistema de e-mail marketing. Poderiam me ajudar?
+36,2023-10-05 14:30,2023-10-05 16:05,resolved,email,205,Integrações,12,Estou enfrentando dificuldades para integrar a plataforma com o meu sistema de automatização. Poderiam me ajudar?
+37,2023-10-10 14:30,2023-10-10 14:43,resolved,email,202,Integrações,15,Estou tendo dificuldades para integrar a plataforma com meu software de gestão. Pode me ajudar?
+38,2023-10-15 14:30,2023-10-15 15:17,resolved,email,302,Integrações,12,Estou tendo dificuldades para integrar a minha conta com a ferramenta de e-mail marketing.
+39,2023-10-15 14:22,,pending,email,205,Integrações,12,Estou tendo dificuldades para integrar minha conta com o sistema de gestão que uso.
+40,2023-10-15 14:22,,pending,email,204,Conta,12,Não estou conseguindo atualizar minhas informações de perfil. Alguém pode me ajudar?
+41,2023-10-05 14:22,2023-10-05 14:55,resolved,email,202,Conta,10,"Preciso atualizar as informações do meu perfil, mas não consigo acessar as configurações."
+42,2023-10-05 14:20,2023-10-05 15:41,resolved,email,215,Conta,12,"Preciso de ajuda para atualizar as informações da minha conta, não consigo acessar a seção de configurações."
+43,2023-10-05 14:30,2023-10-05 15:00,resolved,email,202,Prevenção,15,Recebi um alerta sobre uma possível fraude na minha conta e gostaria de entender melhor o que aconteceu.
+44,2023-10-16 12:30,2023-10-16 13:21,resolved,email,202,Prevenção,0,Recebi um alerta sobre uma possível suspensão da minha conta e não entendi o motivo.
+45,2023-10-15 14:30,2023-10-15 15:27,resolved,email,200,Prevenção,10,Recebi um aviso de que meu conteúdo pode ser considerado problemático. Poderiam me dar mais informações sobre isso?
+46,2023-10-15 15:27,2023-10-15 15:55,resolved,email,204,Prevenção,0,"Recebi um alerta sobre conteúdo problemático, preciso entender melhor como evitar que isso aconteça."
+47,2023-10-10 14:20,2023-10-10 15:25,resolved,email,205,Checkout,5,"Estou enfrentando um problema na finalização da compra, o sistema não aceita meu cartão."
+48,2023-10-10 15:30,2023-10-10 16:23,resolved,email,205,Acesso,0,"Estou tendo problemas para acessar minha conta, a senha não está sendo aceita."
+49,2023-10-15 14:30,2023-10-15 15:14,resolved,email,205,Assinatura,5,Estou com uma dúvida sobre como posso mudar meu plano de assinatura. Poderia me ajudar?
+50,2023-10-15 14:30,2023-10-15 15:26,resolved,email,205,Financeiro,10,"Estou com dúvidas sobre o meu extrato financeiro deste mês, não está batendo com o que eu esperava."
+51,2023-10-04 14:20,2023-10-04 14:58,resolved,email,202,Financeiro,0,"Não consigo acessar meu extrato financeiro, está dando erro ao tentar abrir a página."
+52,2023-10-01 14:22,2023-10-01 14:39,resolved,email,205,Dúvidas Gerais,0,Gostaria de saber como posso melhorar meu engajamento com os seguidores na plataforma.
+53,2023-10-15 14:30,2023-10-15 15:48,resolved,email,205,Financeiro,0,"Estou com dúvidas sobre meu extrato financeiro do último mês, algumas transações não estão claras."
+54,2023-10-10 14:30,,pending,email,204,Checkout,0,Estou enfrentando problemas para finalizar uma compra. A opção de pagamento não está funcionando.
+55,2023-10-18 14:30,2023-10-18 15:52,resolved,email,203,Checkout,15,"Estou tendo problemas para fechar uma compra, o botão de finalizar não está funcionando."
+56,2023-10-24 14:30,2023-10-24 15:16,resolved,email,205,Checkout,12,"Estou enfrentando problemas para finalizar a compra dos meus produtos, não consigo completar o checkout."
+57,2023-10-15 14:30,2023-10-15 15:08,resolved,email,209,Checkout,15,"Estou enfrentando dificuldades para finalizar a compra, a página simplesmente não avança."
+58,2023-10-12 14:30,,pending,email,205,Dúvidas Gerais,15,Gostaria de saber como posso aumentar a minha visibilidade na plataforma. Existem recomendações específicas?
+59,2023-10-10 14:30,2023-10-10 14:50,resolved,email,202,Dúvidas Gerais,0,Gostaria de saber como funciona a monetização na plataforma e quais são os passos para ativá-la.
+60,2023-10-05 14:30,2023-10-05 14:44,resolved,email,205,Checkout,15,Estou enfrentando dificuldades para finalizar uma compra. O sistema para na etapa do pagamento.
+61,2023-10-15 14:22,2023-10-15 15:21,resolved,email,203,Dúvidas Gerais,12,Estou com algumas dúvidas sobre como funciona a monetização na plataforma.
+62,2023-10-10 14:30,2023-10-10 15:02,resolved,email,203,Prevenção,0,"Recebi um aviso de prevenção de fraude, mas não fiz nada de suspeito. Poderiam me ajudar a entender?"
+63,2023-10-10 14:20,,pending,email,205,Produto,5,Estou com dificuldades para entender como usar a nova funcionalidade de análise de dados na plataforma.
+64,2023-10-12 14:30,2023-10-12 14:55,resolved,email,202,Reembolso,15,Solicitei um reembolso há alguns dias e gostaria de saber o status do meu pedido.
+65,2023-10-02 14:30,2023-10-02 15:46,resolved,email,202,Integrações,0,Estou tendo dificuldades para integrar minha conta com a ferramenta de e-mail marketing. Alguém pode me ajudar?
+66,2023-10-05 14:20,,pending,email,202,Membros gratuitos,15,Estou recebendo reclamações de que meus membros gratuitos não conseguem acessar conteúdos que deveriam estar disponíveis para eles.
+67,2023-10-12 14:30,2023-10-12 15:02,resolved,email,204,Migração,10,Estou com dificuldades para migrar meus conteúdos de outra plataforma para cá. Preciso de ajuda!
+68,2023-10-15 14:30,2023-10-15 14:56,resolved,email,205,Pagamento,15,"Estou tendo problemas para realizar o pagamento da assinatura, o cartão não está sendo aceito."
+69,2023-10-15 14:30,2023-10-15 15:58,resolved,email,205,Acesso,5,Estou tendo dificuldades para acessar minha conta. Minha senha não está funcionando.
+70,2023-10-20 14:30,2023-10-20 16:02,resolved,email,202,Assinatura,15,"Preciso de ajuda para mudar meu plano de assinatura, não consigo encontrar a opção de upgrade."
+71,2023-10-10 14:30,2023-10-10 15:15,resolved,email,205,Financeiro,0,Estou com dificuldades para acessar meu relatório financeiro do mês passado.
+72,2023-10-20 14:32,2023-10-20 14:59,resolved,email,205,Financeiro,15,Preciso de ajuda para entender como funciona o repasse dos ganhos deste mês.
+73,2023-10-10 14:30,2023-10-10 16:07,resolved,email,205,Dúvidas Gerais,5,Gostaria de saber como funciona a monetização na plataforma e quais são os requisitos.
+74,2023-10-05 14:32,2023-10-05 15:40,resolved,email,57,Financeiro,12,"Preciso de ajuda com o meu extrato financeiro, não consigo visualizar as transações do último mês."
+75,2023-10-12 14:30,2023-10-12 13:27,resolved,email,205,Checkout,5,"Estou tendo problemas para finalizar a compra do meu produto, o botão de pagamento não está funcionando."
+76,2023-10-12 14:30,,pending,email,204,Checkout,0,"Estou tendo problemas para finaliza a compra, o botão de pagamento não está funcionando."
+77,2023-10-10 14:30,2023-10-10 15:35,resolved,email,205,Checkout,5,Estou enfrentando problemas para finalizar uma compra. O sistema simplesmente não avança na hora do pagamento.
+78,2023-10-25 14:30,2023-10-25 14:46,resolved,email,205,Acesso,15,"Estou tendo problemas para acessar minha conta, não consigo fazer login."
+79,2023-10-10 14:20,2023-10-10 14:37,resolved,email,102,Assinatura,0,Estou tendo dificuldades para fazer o upgrade da minha assinatura. Poderiam me ajudar?
+80,2023-10-10 14:30,,pending,email,205,Checkout,15,"Estou tendo problemas para finalizar a compra, a página de checkout não carrega."
+81,2023-10-02 14:20,2023-10-02 14:45,resolved,email,202,Conta,5,Preciso de ajuda para atualizar as informações do meu perfil na plataforma.
+82,2023-10-10 14:30,2023-10-10 16:05,resolved,email,205,Checkout,12,"Estou tendo dificuldades para finalizar a compra, a página trava no momento do pagamento."
+83,2023-10-05 14:30,2023-10-05 15:07,resolved,email,202,Checkout,15,Estou enfrentando problemas para finalizar a compra do meu produto. O sistema não está aceitando meu cartão de crédito.
+84,2023-10-05 14:30,2023-10-05 15:49,resolved,email,202,Checkout,0,"Estou tendo problemas para finalizar a compra, a opção de pagamento está travando."
+85,2023-10-05 14:30,2023-10-05 15:25,resolved,email,202,Dúvidas Gerais,0,Gostaria de saber como posso aumentar a visibilidade dos meus conteúdos na plataforma.
+86,2023-10-15 14:30,2023-10-15 15:53,resolved,email,202,Dúvidas Gerais,5,Gostaria de saber como posso aumentar a visibilidade dos meus conteúdos na plataforma.
+87,2023-10-02 14:30,,pending,email,205,Dúvidas Gerais,0,Gostaria de saber quais são as taxas cobradas pela plataforma para pagamentos.
+88,2023-10-11 14:30,2023-10-11 15:54,resolved,email,156,Financeiro,5,Não recebi o repasse do mês passado e preciso de uma explicação sobre a situação.
+89,2023-10-09 15:30,2023-10-09 15:47,resolved,email,204,Integrações,10,Estou com dificuldades para integrar minha conta com a API do meu site. Poderiam me ajudar?
+90,2023-10-01 14:30,,pending,email,202,Membros gratuitos,15,Estou tendo dificuldades em entender as limitações dos membros gratuitos na plataforma.
+91,2023-10-01 14:30,2023-10-01 15:33,resolved,email,205,Migração,15,Estou com dificuldades para migrar meus conteúdos de outra plataforma para cá. Alguém pode me ajudar?
+92,2023-10-10 14:30,2023-10-10 16:03,resolved,email,204,Pagamento,5,"Estou tendo problemas para processar o pagamento com meu cartão, ele é recusado toda vez que tento."
+93,2023-10-12 14:30,2023-10-12 14:43,resolved,email,218,Prevenção,15,"Recebi um alerta sobre conteúdo potencialmente problemático, mas não entendi o que está acontecendo. Poderiam esclarecer?"
+94,2023-10-05 14:30,,pending,email,203,Produto,10,Estou enfrentando problemas com uma funcionalidade nova do produto que não está funcionando como deveria.
+95,2023-10-15 14:45,2023-10-15 15:45,resolved,email,205,Reembolso,10,"Solicitei um reembolso na semana passada, mas ainda não recebi nenhuma confirmação."
+96,2023-10-15 14:30,2023-10-15 15:15,resolved,email,205,Integrações,7,Estou com dificuldades para integrar minha conta à ferramenta de e-mail marketing. Pode me ajudar?
+97,2023-10-25 14:20,2023-10-25 15:42,resolved,email,205,Membros gratuitos,5,Estou com dificuldades em entender as limitações dos membros gratuitos na minha conta.
+98,2023-10-15 15:30,2023-10-15 17:08,resolved,email,205,Migração,0,"Preciso de ajuda para migrar meus conteúdos de outra plataforma para cá, não estou conseguindo."
+99,2023-10-01 15:30,,pending,email,203,Checkout,0,"Estou tendo problemas para finalizar a compra, a página não carrega."
+100,2023-10-05 14:30,,pending,email,205,Checkout,0,Estou enfrentando problemas para finalizar uma compra. A página fica carregando e não conclui o pagamento.
+45,2023-10-10 14:30,2023-10-10 16:07,resolved,email,101,Checkout,0,Estou tendo dificuldades para processar o pagamento de um cliente. Ele não consegue concluir a compra.
+1,2023-10-10 12:45,2023-10-10 13:51,resolved,email,102,Dúvidas Gerais,5,Gostaria de saber como posso aumentar a minha visibilidade na plataforma e atrair mais seguidores.
+1,2023-10-05 12:30,2023-10-05 13:34,resolved,email,103,Dúvidas Gerais,0,Tenho uma dúvida sobre como posso aumentar meu engajamento na plataforma.
+104,2023-10-15 14:20,2023-10-15 15:52,resolved,email,250,Checkout,0,Estou enfrentando dificuldades para completar uma compra na plataforma. O botão de finalizar compra não está funcionando.
+1,2023-10-10 14:30,2023-10-10 15:26,resolved,email,105,Dúvidas Gerais,15,Estou com dúvidas sobre como funciona a plataforma e as ferramentas disponíveis para criadores.
+106,2023-10-15 14:22,,pending,email,202,Prevenção,15,Recebi um alerta sobre conteúdo problemático. Poderiam me explicar melhor o que aconteceu?
+107,2023-10-05 14:20,2023-10-05 15:27,resolved,email,202,Acesso,15,"Estou tendo dificuldades para acessar minha conta, minha senha não está sendo aceita."
+108,2023-10-10 14:30,,pending,email,205,Checkout,15,"Estou enfrentando dificuldades para finalizar a compra, o botão de pagamento não está funcionando."
+109,2023-10-17 14:30,,pending,email,205,Acesso,5,"Estou tendo dificuldades para acessar minha conta, a plataforma não aceita minha senha."
+110,2023-10-15 14:30,2023-10-15 15:00,resolved,email,205,Assinatura,10,Estou com dúvidas sobre como fazer o upgrade do meu plano de assinatura.
+111,2023-10-02 14:30,2023-10-02 15:12,resolved,email,202,Checkout,0,"Estou tendo problemas para finalizar a compra na minha loja, aparece uma mensagem de erro sempre que tento."
+112,2023-10-10 14:30,2023-10-10 15:42,resolved,email,45,Conta,5,Estou tendo problemas para atualizar as informações do meu perfil.
+113,2023-10-10 14:32,2023-10-10 15:28,resolved,email,52,Dúvidas Gerais,5,Gostaria de saber como funciona a monetização na plataforma e quais são os requisitos.
+114,2023-10-15 14:30,2023-10-15 15:33,resolved,email,202,Financeiro,12,"Gostaria de entender melhor como funciona o repasse financeiro na plataforma, pois estou com dúvidas sobre os valores recebidos."
+115,2023-10-15 11:30,2023-10-15 12:46,resolved,email,202,Prevenção,0,"Recebi um aviso sobre conteúdo que pode violar as diretrizes, mas não entendi o que é."
+116,2023-10-10 14:20,,pending,email,207,Acesso,12,Estou tendo problemas para acessar minha conta. A senha não está funcionando.
+117,2023-10-08 14:23,2023-10-08 14:54,resolved,email,205,Dúvidas Gerais,12,Gostaria de saber como posso aumentar o alcance dos meus conteúdos na plataforma.
+118,2023-10-01 14:30,2023-10-01 15:51,resolved,email,205,Checkout,12,Estou enfrentando um problema ao tentar finalizar a compra do meu curso. O botão de pagamento não está funcionando.
+119,2023-10-15 14:30,,pending,email,205,Dúvidas Gerais,0,Gostaria de saber como posso aumentar meu alcance nas redes sociais usando a plataforma.
+120,2023-10-10 14:22,,pending,email,205,Prevenção,5,"Estou recebendo muitos alertas sobre conteúdos problemáticos, mas não sei como resolver isso."
+121,2023-10-01 14:30,,pending,email,303,Acesso,0,"Não consigo acessar minha conta, diz que minha senha está incorreta."
+122,2023-10-10 14:20,2023-10-10 15:38,resolved,email,205,Checkout,10,Estou tendo problemas para processar o pagamento no checkout. O sistema diz que o cartão não é aceito.
+123,2023-10-05 14:20,,pending,email,456,Acesso,5,"Não estou conseguindo acessar minha conta, diz que minha senha está incorreta."
+124,2023-10-12 14:30,,pending,email,205,Assinatura,15,Estou com dificuldades para fazer o upgrade do meu plano de assinatura.
+125,2023-10-01 14:30,2023-10-01 14:58,resolved,email,207,Checkout,5,"Estou tendo dificuldades para finalizar uma compra na minha loja, o botão de 'Finalizar Compra' não está funcionando."
+126,2023-10-15 14:30,2023-10-15 15:12,resolved,email,205,Conta,15,Estou tendo dificuldades para atualizar as informações do meu perfil na plataforma.
+127,2023-10-10 14:30,2023-10-10 15:07,resolved,email,205,Dúvidas Gerais,0,Gostaria de saber como funcionam os limites de publicação na plataforma.
+128,2023-10-15 14:20,2023-10-15 15:36,resolved,email,502,Financeiro,0,Estou com dúvidas sobre o extrato financeiro do mês passado. Os valores não parecem corretos.
+129,2023-09-25 14:20,2023-09-25 15:22,resolved,email,202,Integrações,0,Estou enfrentando dificuldades para integrar minha conta com a ferramenta de automação que uso. Poderiam me ajudar?
+130,2023-10-05 14:30,2023-10-05 16:00,resolved,email,205,Produto,15,"Estou com dificuldades para entender como usar a nova funcionalidade de, pode me ajudar?"
+131,2023-10-05 14:30,2023-10-05 15:00,resolved,email,202,Reembolso,15,Gostaria de solicitar o reembolso de uma compra que não recebi.
+132,2023-10-10 14:30,2023-10-10 15:01,resolved,email,456,Membros gratuitos,5,Estou com dificuldades para entender as limitações dos membros gratuitos na minha conta.
+133,2023-10-05 14:30,2023-10-05 13:29,resolved,email,202,Reembolso,7,"Gostaria de solicitar um reembolso de uma compra feita na semana passada, mas não consigo encontrar a opção no site."
+134,2023-10-05 14:30,,pending,email,209,Conta,5,"Estou com dificuldades para atualizar meu perfil na plataforma, não consigo acessar as configurações."
+135,2023-10-12 14:20,2023-10-12 14:36,resolved,email,203,Conta,15,Preciso de ajuda para atualizar as informações do meu perfil na plataforma.
+136,2023-10-10 14:20,2023-10-10 15:21,resolved,email,202,Integrações,0,Estou tendo dificuldades para integrar a plataforma com o meu sistema de e-mail. Você pode me ajudar?
+137,2023-10-04 14:30,2023-10-04 15:47,resolved,email,204,Integrações,12,Estou com dificuldades para integrar minha conta com uma nova ferramenta de automação. Alguma orientação?
+138,2023-10-10 14:30,,pending,email,202,Integrações,0,Estou com dificuldades para integrar minha conta com a ferramenta de e-mail marketing. Alguém pode me ajudar?
+139,2023-10-10 14:37,2023-10-10 15:44,resolved,email,258,Integrações,0,Estou com dificuldades para integrar minha conta com o plugin do WordPress.
+140,2023-10-10 14:30,,escalated,email,57,Integrações,12,Estou tendo dificuldades para integrar minha conta com a ferramenta de automação que uso.
+141,2023-10-05 14:30,2023-10-05 16:03,resolved,email,2001,Acesso,12,"Não consigo acessar minha conta, está aparecendo uma mensagem de erro."
+142,2023-10-04 14:35,,pending,email,205,Checkout,12,"Estou enfrentando problemas para finalizar a compra, a página não carrega corretamente."
+143,2023-10-05 14:30,2023-10-05 15:33,resolved,email,57,Acesso,10,"Não consigo acessar minha conta, sempre aparece uma mensagem de erro."
+144,2023-10-12 14:30,2023-10-12 15:41,resolved,email,202,Assinatura,0,"Estou com dificuldades para fazer o upgrade da minha assinatura, não consigo encontrar a opção."
+145,2023-10-10 14:30,,pending,email,78,Checkout,0,Estou enfrentando um problema na finalização da compra. O sistema não está aceitando o meu cartão de crédito.
+146,2023-10-05 08:30,2023-10-05 10:10,resolved,email,202,Conta,12,"Preciso atualizar as informações do meu perfil, mas não encontro a opção para isso."
+147,2023-10-10 14:22,,pending,email,203,Dúvidas Gerais,5,Gostaria de saber como posso aumentar o engajamento dos meus seguidores na plataforma.
+148,2023-10-15 14:30,2023-10-15 16:09,resolved,email,205,Financeiro,10,Preciso de ajuda para entender o meu extrato financeiro do último mês.
+149,2023-10-24 14:30,,pending,email,205,Integrações,15,Estou tendo problemas para integrar a minha conta com a API da plataforma. Não estou recebendo os dados corretamente.
+150,2023-10-20 14:30,2023-10-20 14:46,resolved,email,205,Membros gratuitos,15,Gostaria de saber como posso limitar o acesso de membros gratuitos a determinadas funcionalidades.
+151,2023-10-10 14:30,2023-10-10 14:55,resolved,email,202,Migração,12,"Estou com dificuldades para migrar meus conteúdos de outra plataforma, vocês podem me ajudar?"
+152,2023-10-05 14:20,2023-10-05 14:48,resolved,email,205,Pagamento,12,Estou enfrentando dificuldades para efetuar o pagamento da minha assinatura mensal.
+153,2023-10-10 14:30,2023-10-10 14:55,resolved,email,202,Prevenção,0,"Recebi um alerta sobre conteúdo problemático, mas não sei o que fiz de errado. Podem me ajudar a entender?"
+154,2023-10-15 14:30,,pending,email,307,Produto,0,Gostaria de saber como adicionar novos formatos de conteúdo em meu perfil.
+155,2023-10-02 14:35,2023-10-02 14:58,resolved,email,202,Reembolso,12,"Solicitei um reembolso para um produto que não recebi, mas ainda não tive retorno."
+156,2023-10-05 14:30,,pending,email,205,Integrações,0,Estou tendo dificuldades para integrar minha conta com a ferramenta de email marketing.
+157,2023-10-10 14:30,,pending,email,205,Membros gratuitos,15,Estou com dúvidas sobre as funcionalidades que os membros gratuitos têm acesso. Pode me ajudar?
+158,2023-10-15 14:30,,pending,email,202,Migração,15,Estou tendo dificuldades para migrar meus vídeos de outra plataforma para cá. Alguma orientação?
+159,2023-10-10 14:20,2023-10-10 15:32,resolved,email,78,Pagamento,12,"Estou tendo problemas para concluir um pagamento com meu cartão, aparece uma mensagem de erro."
+160,2023-10-10 14:30,2023-10-10 15:57,resolved,email,205,Prevenção,0,Preciso de orientações sobre como evitar problemas com conteúdos que possam ser considerados inadequados na plataforma.
+161,2023-10-12 14:30,2023-10-12 15:08,resolved,email,204,Produto,0,Estou tendo dificuldades para entender como usar a nova funcionalidade de edição de vídeos na plataforma.
+162,2023-10-05 14:20,2023-10-05 15:47,resolved,email,205,Produto,12,Estou tendo dificuldades para acessar algumas funcionalidades novas do produto que foram atualizadas recentemente.
+163,2023-10-15 09:30,2023-10-15 10:41,resolved,email,202,Produto,10,Estou com dificuldades para entender como funciona a nova funcionalidade de análise de dados.
+164,2023-10-06 14:20,2023-10-06 15:00,resolved,email,202,Produto,10,"Estou tendo dificuldades para usar uma nova funcionalidade do produto, ela não parece funcionar como esperado."
+165,2023-10-05 14:30,2023-10-05 15:00,resolved,email,202,Reembolso,10,"Gostaria de solicitar o reembolso de um curso que comprei, mas não consegui acessar."
+166,2023-10-20 14:30,2023-10-20 15:57,resolved,email,205,Membros gratuitos,10,Gostaria de entender melhor quais funcionalidades estão disponíveis para membros gratuitos na plataforma.
+167,2023-10-05 14:30,,pending,email,205,Reembolso,15,"Solicitei um reembolso, mas não recebi nenhuma atualização sobre o status."
+168,2023-10-15 14:25,,pending,email,203,Integrações,5,Estou com dificuldades para integrar minha conta com o Google Analytics.
+169,2023-10-10 14:30,2023-10-10 15:30,resolved,email,205,Produto,5,Estou enfrentando dificuldades para usar uma nova funcionalidade que foi implementada. Poderiam me ajudar?
+170,2023-10-11 14:30,2023-10-11 15:00,resolved,email,256,Reembolso,15,"Solicitei um reembolso da minha última assinatura, mas não recebi nenhuma confirmação ainda."
+171,2023-10-20 14:30,2023-10-20 14:44,resolved,email,205,Membros gratuitos,10,Estou com dúvidas sobre as limitações dos meus membros gratuitos e como posso melhorá-las.
+172,2023-10-10 14:45,2023-10-10 16:20,resolved,email,204,Reembolso,5,Solicitei um reembolso na semana passada e ainda não obtive retorno sobre a minha solicitação.
+173,2023-10-01 14:20,,pending,email,205,Conta,15,"Preciso atualizar as informações do meu perfil, mas não estou conseguindo acessar a seção de configurações."
+174,2023-10-14 14:30,,pending,email,52,Conta,15,"Preciso atualizar as informações do meu perfil, mas não estou conseguindo acessar a seção de configurações."
+175,2023-10-15 14:30,2023-10-15 15:01,resolved,email,205,Integrações,12,Estou com dificuldades para integrar a minha conta com o plugin de marketing que uso. Pode me ajudar?
+176,2023-10-18 14:30,,pending,email,205,Integrações,12,"Estou com dificuldades para integrar minha conta à ferramenta de email marketing, não estou conseguindo sincronizar os contatos."
+177,2023-10-15 14:30,,pending,email,85,Integrações,10,Estou com dificuldades para integrar minha conta com uma nova ferramenta de automação.
+178,2023-10-15 14:30,,pending,email,205,Integrações,12,Estou com dificuldades para integrar minha conta com a ferramenta de automação que uso.
+179,2023-10-10 14:30,2023-10-10 15:43,resolved,email,52,Integrações,0,Estou com dificuldades para integrar minha conta com a ferramenta de e-mail marketing.
+180,2023-10-14 14:22,,pending,email,57,Conta,10,Estou tendo dificuldades para atualizar as informações do meu perfil na plataforma.
+181,2023-10-12 14:32,2023-10-12 15:39,resolved,email,205,Conta,12,Estou tendo dificuldades para atualizar minha foto de perfil na conta.
+182,2023-10-10 09:30,,pending,email,204,Conta,12,"Preciso de ajuda para atualizar as informações da minha conta, especialmente o meu perfil."
+183,2023-10-10 14:30,2023-10-10 15:47,resolved,email,207,Prevenção,0,Recebi um alerta sobre um conteúdo que pode ser problemático. Poderiam me ajudar a entender melhor?
+184,2023-10-15 15:30,2023-10-15 15:59,resolved,email,205,Prevenção,0,Estou preocupado com a possibilidade de que meu conteúdo seja marcado como problemático. Como posso prevenir isso?
+185,2023-10-05 14:30,2023-10-05 15:45,resolved,email,203,Prevenção,10,"Recebi um alerta sobre conteúdo potencialmente problemático, quero entender melhor o que aconteceu."
+186,2023-10-07 14:30,,pending,email,234,Prevenção,0,Recebi um alerta sobre uma possível violação de conteúdo na minha conta e não sei como proceder.
+187,2023-10-15 14:20,2023-10-15 15:27,resolved,email,302,Checkout,12,Estou tendo problemas para finalizar a compra de um produto na plataforma. O botão de pagamento não está funcionando.
+188,2023-10-01 14:30,,pending,email,205,Acesso,10,"Estou tendo problemas para fazer login na minha conta, diz que a senha está incorreta."
+189,2023-10-10 14:30,,pending,email,202,Assinatura,5,Gostaria de saber como faço para mudar meu plano de assinatura para o nível superior.
+190,2023-10-12 14:30,2023-10-12 14:49,resolved,email,202,Financeiro,12,Estou com dúvidas sobre o relatório financeiro do último mês e gostaria de entender melhor os repasses.
+191,2023-10-10 14:30,,pending,email,205,Financeiro,15,Estou com dificuldades para acessar meus extratos financeiros do mês passado.
+192,2023-10-01 14:30,2023-10-01 15:30,resolved,email,58,Dúvidas Gerais,0,Gostaria de saber como posso aumentar a visibilidade dos meus conteúdos na plataforma.
+193,2023-10-05 14:20,2023-10-05 15:20,resolved,email,210,Financeiro,0,Gostaria de saber quando será o próximo repasse dos meus ganhos e se teve alguma atualização no extrato.
+194,2023-10-15 14:30,2023-10-15 14:43,resolved,email,102,Checkout,0,"Estou enfrentando problemas para finalizar a compra, não consigo passar para a etapa de pagamento."
+195,2023-10-15 14:30,2023-10-15 14:50,resolved,email,345,Checkout,15,"Estou tendo problemas para finalizar uma compra, o sistema não aceita meu cartão de crédito."
+196,2023-10-15 14:30,2023-10-15 15:35,resolved,email,205,Checkout,0,Estou tendo problemas para finalizar a compra do meu produto. O botão de pagamento não está funcionando.
+197,2023-10-12 14:30,2023-10-12 14:49,resolved,email,245,Checkout,12,"Estou tendo problemas para finalizar uma compra, a página de checkout não está carregando."
+198,2023-10-03 14:20,2023-10-03 14:49,resolved,email,202,Dúvidas Gerais,12,Gostaria de saber como posso aumentar minha visibilidade na plataforma.
+199,2023-10-05 14:30,,pending,email,205,Dúvidas Gerais,15,Gostaria de saber como posso promover melhor meu conteúdo na plataforma.
+200,2023-10-15 14:30,2023-10-15 15:56,resolved,email,305,Checkout,5,"Estou tendo problemas para finalizar a compra, o sistema só fica carregando."
+201,2023-10-15 14:30,2023-10-15 15:40,resolved,email,205,Dúvidas Gerais,10,Gostaria de saber quais são as funcionalidades disponíveis para usuários com plano gratuito?
+202,2023-10-14 14:30,,pending,email,305,Prevenção,0,Recebi um aviso sobre a suspensão da minha conta e não entendi o motivo. Poderiam me ajudar?
+203,2023-10-15 14:30,,pending,email,57,Produto,15,Estou enfrentando dificuldades para adicionar novos produtos na minha loja. A opção não está aparecendo.
+204,2023-10-10 14:30,2023-10-10 14:46,resolved,email,205,Reembolso,0,Solicitei um reembolso na semana passada e ainda não recebi uma atualização sobre isso.
+205,2023-10-06 14:20,2023-10-06 15:19,resolved,email,302,Integrações,12,Estou com dificuldades para integrar minha conta do Google Analytics à plataforma. Não consigo encontrar a opção.
+206,2023-09-23 14:30,2023-09-23 14:57,resolved,email,57,Membros gratuitos,0,Gostaria de entender melhor quais funcionalidades estão disponíveis para os membros gratuitos da plataforma.
+207,2023-10-10 14:20,2023-10-10 15:20,resolved,email,302,Migração,0,Estou tendo dificuldades para migrar meus conteúdos de outra plataforma para cá. O processo não está clareando.
+208,2023-10-10 14:30,2023-10-10 15:42,resolved,email,55,Pagamento,10,Estou tendo problemas para processar um pagamento via boleto. O sistema não está reconhecendo o pagamento.
+209,2023-10-01 14:30,2023-10-01 15:23,resolved,email,105,Acesso,12,"Estou tendo dificuldades para acessar minha conta, não consigo redefinir a senha."
+210,2023-10-05 14:30,2023-10-05 15:16,resolved,email,502,Assinatura,0,"Estou tendo dificuldades para mudar meu plano de assinatura. Poderiam me ajudar, por favor?"
+211,2023-10-05 14:30,2023-10-05 15:06,resolved,email,89,Financeiro,12,Estou com dificuldades para acessar meu extrato financeiro do último mês.
+212,2023-10-21 14:18,,pending,email,504,Financeiro,5,"Não consegui acessar meu extrato financeiro deste mês, pode me ajudar?"
+213,2023-10-05 14:30,2023-10-05 15:53,resolved,email,57,Dúvidas Gerais,0,Gostaria de saber como posso aumentar o número de interações nas minhas postagens.
+214,2023-10-15 14:30,2023-10-15 16:03,resolved,email,53,Financeiro,12,"Estou com dúvidas sobre o repasse do mês passado, o valor está diferente do esperado."
+215,2023-10-05 14:30,,pending,email,450,Checkout,0,Estou tendo problemas para finalizar a compra do meu produto. O sistema não aceita meu cartão.
+216,2023-10-15 14:30,2023-10-15 14:45,resolved,email,202,Checkout,15,"Estou com dificuldades para processar um pagamento na finalização da compra, não consigo que o sistema aceite o cartão de crédito."
+217,2023-10-05 14:30,2023-10-05 15:39,resolved,email,1502,Checkout,15,"Estou tendo problemas para finalizar uma compra, o botão de checkout não está funcionando."
+218,2023-10-01 15:30,2023-10-01 16:52,resolved,email,342,Acesso,10,Estou tendo problemas para acessar minha conta. Não consigo resetar minha senha.
+219,2023-10-10 14:20,2023-10-10 15:19,resolved,email,57,Assinatura,0,"Estou com dificuldades para renovar minha assinatura, o sistema não está aceitando meu cartão."
+220,2023-10-05 11:30,2023-10-05 11:45,resolved,email,309,Checkout,5,Estou tendo dificuldades para finalizar a compra de um produto. O sistema não aceita meus dados do cartão.
+221,2023-10-14 15:30,2023-10-14 16:54,resolved,email,57,Conta,10,"Preciso atualizar meu perfil, mas não consigo acessar as configurações da minha conta."
+222,2023-10-10 14:30,2023-10-10 16:06,resolved,email,58,Checkout,12,Estou enfrentando dificuldades para finalizar a compra do meu produto. O botão de pagamento não está funcionando.
+223,2023-10-10 14:30,2023-10-10 15:18,resolved,email,312,Checkout,12,"Estou tendo problemas para finalizar a compra, o botão de checkout não está funcionando."
+224,2023-10-12 14:30,2023-10-12 15:03,resolved,email,57,Checkout,12,"Estou enfrentando dificuldades para completar a compra, o sistema não aceita meu cartão."
+225,2023-10-10 14:30,2023-10-10 15:27,resolved,email,150,Dúvidas Gerais,0,Gostaria de saber como posso aumentar a visibilidade dos meus conteúdos na plataforma.
+226,2023-10-02 14:30,2023-10-02 16:10,resolved,email,150,Dúvidas Gerais,12,Gostaria de saber como posso aumentar o engajamento dos meus seguidores na plataforma.
+227,2023-10-10 14:25,2023-10-10 15:55,resolved,email,512,Dúvidas Gerais,5,"Olá, gostaria de saber como posso aumentar a visibilidade dos meus conteúdos na plataforma."
+228,2023-10-02 14:20,2023-10-02 15:27,resolved,email,75,Financeiro,10,Estou com dúvidas sobre o meu extrato financeiro e não consigo ver os repasses realizados este mês.
+229,2023-10-12 14:25,2023-10-12 15:19,resolved,email,485,Integrações,12,Estou tendo dificuldades para integrar minha conta com a ferramenta de email marketing. Pode me ajudar?
+230,2023-10-15 14:30,2023-10-15 15:53,resolved,email,205,Membros gratuitos,15,Estou com dúvidas sobre quais funcionalidades meus membros gratuitos têm acesso na plataforma.
+231,2023-10-10 14:20,2023-10-10 15:00,resolved,email,342,Migração,15,Estou tendo dificuldades para migrar meus dados da plataforma antiga. Pode me ajudar?
+232,2023-10-15 14:32,,pending,email,158,Pagamento,12,Estou tendo problemas para processar um pagamento via boleto. O pagamento não foi reconhecido na minha conta.
+233,2023-10-25 14:22,,pending,email,58,Prevenção,0,Recebi um alerta de que meu conteúdo pode ter sido sinalizado. Poderiam esclarecer o que aconteceu?
+234,2023-10-15 14:30,2023-10-15 16:08,resolved,email,302,Produto,0,Eu gostaria de saber mais sobre as novas funcionalidades que foram adicionadas ao produto.
+235,2023-10-04 14:30,2023-10-04 14:46,resolved,email,1234,Reembolso,15,Solicitei um reembolso há uma semana e ainda não recebi nenhuma atualização.
+236,2023-10-10 14:30,2023-10-10 15:45,resolved,email,78,Integrações,5,Estou com dificuldades para integrar minha conta com a ferramenta de e-mail marketing.
+237,2023-10-28 14:20,2023-10-28 14:51,resolved,email,204,Membros gratuitos,5,Gostaria de saber quais funcionalidades estão disponíveis para meus seguidores gratuitos.
+238,2023-10-10 14:30,2023-10-10 14:59,resolved,email,57,Migração,5,Estou enfrentando dificuldades para migrar meus conteúdos de outra plataforma. Poderiam me ajudar?
+239,2023-10-01 14:30,,pending,email,125,Checkout,12,"Estou tendo dificuldades para completar a compra, o sistema sempre retorna erro na etapa de pagamento."
+240,2023-10-10 14:20,2023-10-10 14:38,resolved,email,345,Checkout,12,"Estou enfrentando problemas ao tentar finalizar uma compra, a página de checkout não carrega."
+241,2023-10-17 14:30,2023-10-17 15:08,resolved,in_app,57,Checkout,5,"Estou tendo dificuldades para finalizar a compra de um produto, o sistema não aceita meu cartão."
+242,2023-10-08 14:30,2023-10-08 15:43,resolved,email,203,Dúvidas Gerais,0,Gostaria de saber mais sobre como funciona o sistema de monetização da plataforma.
+243,2023-10-10 14:22,2023-10-10 15:34,resolved,email,76,Dúvidas Gerais,0,Gostaria de saber como posso aumentar a visibilidade dos meus conteúdos na plataforma.
+244,2023-10-10 14:30,2023-10-10 15:37,resolved,email,102,Checkout,15,"Estou tendo problemas para finalizar a compra, a opção de pagamento não aparece."
+245,2023-10-15 14:30,2023-10-15 15:12,resolved,email,202,Dúvidas Gerais,0,Gostaria de saber como funciona a distribuição de conteúdo na plataforma.
+246,2023-10-10 14:30,,pending,email,157,Prevenção,0,Recebi um alerta sobre possíveis fraudes em meu conteúdo e estou preocupado com a suspensão da minha conta.
+247,2023-10-20 14:32,,escalated,email,58,Acesso,12,"Estou tendo dificuldades para acessar minha conta, não consigo fazer login."
+248,2023-10-15 14:32,,pending,email,302,Checkout,0,Estou enfrentando dificuldades para concluir uma compra. O botão de finalização está inativo.
+249,2023-10-12 14:30,2023-10-12 14:48,resolved,email,205,Acesso,15,"Estou tendo dificuldades para fazer login na minha conta, a senha não está sendo aceita."
+250,2023-10-05 14:30,,pending,email,202,Assinatura,0,Estou tendo problemas para renovar minha assinatura e gostaria de ajuda.
+251,2023-10-05 14:30,2023-10-05 15:05,resolved,email,202,Checkout,12,Estou enfrentando problemas para finalizar a compra no site. O sistema dá erro quando tento usar meu cartão.
+252,2023-10-10 14:23,,pending,email,203,Conta,0,"Preciso atualizar meu perfil, mas não estou conseguindo acessar as configurações da conta."
+253,2023-10-10 14:30,2023-10-10 15:09,resolved,email,205,Dúvidas Gerais,0,Quero saber como posso aumentar a visibilidade do meu conteúdo na plataforma.
+254,2023-10-10 14:20,2023-10-10 14:53,resolved,email,57,Financeiro,15,Gostaria de saber quando o próximo pagamento será realizado na minha conta.
+255,2023-10-15 14:30,2023-10-15 15:59,resolved,email,104,Prevenção,0,"Recebi um alerta sobre possíveis conteúdos problemáticos, gostaria de saber como posso evitar suspensões."
+256,2023-10-15 14:30,2023-10-15 15:43,resolved,email,159,Acesso,0,"Estou tendo dificuldades para acessar minha conta, senhas não estão funcionando."
+257,2023-10-12 14:30,,pending,email,205,Dúvidas Gerais,0,Estou com algumas dúvidas sobre como estruturar meus conteúdos na plataforma.
+258,2023-10-20 14:30,2023-10-20 16:08,resolved,email,342,Checkout,12,"Estou enfrentando um problema ao tentar finalizar a compra do meu produto, o botão não funciona."
+259,2023-10-12 14:30,,pending,email,56,Dúvidas Gerais,0,Gostaria de saber como funciona a monetização na plataforma.
+260,2023-10-10 14:30,2023-10-10 14:48,resolved,email,235,Prevenção,15,Recebi uma notificação de que meu conteúdo está com risco de suspensão. Preciso de mais informações sobre isso.
+261,2023-10-10 14:32,2023-10-10 15:38,resolved,email,58,Acesso,15,Estou tendo dificuldades para fazer login na minha conta e preciso de ajuda.
+262,2023-10-15 14:30,2023-10-15 15:25,resolved,email,204,Checkout,12,"Estou enfrentando dificuldades para finalizar a compra do meu último lançamento, o sistema não aceita meu cartão."
+263,2023-10-18 14:32,2023-10-18 14:53,resolved,email,105,Acesso,5,Não estou conseguindo acessar minha conta. A senha que estou usando não está funcionando.
+264,2023-10-05 14:30,2023-10-05 15:43,resolved,email,78,Assinatura,12,Estou com dúvidas sobre como fazer o upgrade do meu plano de assinatura.
+265,2023-10-05 14:30,2023-10-05 15:13,resolved,email,87,Checkout,0,"Estou tendo problemas para finalizar a compra, o botão de pagamento não está respondendo."
+266,2023-10-22 14:30,,pending,email,89,Conta,12,Preciso de ajuda para atualizar as informações do meu perfil na plataforma.
+267,2023-10-10 15:45,2023-10-10 16:00,resolved,email,203,Dúvidas Gerais,0,Gostaria de saber como posso aumentar meu público na plataforma. Alguma dica?
+268,2023-10-24 14:30,2023-10-24 15:53,resolved,email,512,Financeiro,5,Estou com dúvidas sobre o relatório financeiro do último mês. Não consigo entender algumas despesas que aparecem.
+269,2023-10-14 14:22,,escalated,email,1503,Integrações,5,Estou tendo dificuldades para integrar a plataforma com meu sistema de gerenciamento de conteúdo.
+270,2023-10-01 14:20,2023-10-01 14:57,resolved,email,305,Produto,10,Estou com dificuldades para entender como funciona a nova funcionalidade de anúncios na plataforma.
+271,2023-10-01 15:20,2023-10-01 15:45,resolved,email,58,Reembolso,10,Gostaria de solicitar o reembolso de uma compra que foi feita por engano.
+272,2023-10-15 14:30,2023-10-15 15:34,resolved,email,503,Membros gratuitos,0,Gostaria de saber se é possível limitar as funcionalidades dos membros gratuitos na minha conta.
+273,2023-10-17 14:22,2023-10-17 15:26,resolved,email,57,Reembolso,10,"Preciso de um reembolso para a última compra que fiz, pois não estou satisfeito com o produto."
+274,2023-10-10 15:25,2023-10-10 16:49,resolved,email,1023,Conta,12,"Preciso atualizar as informações do meu perfil, mas não consigo acessar as configurações."
+275,2023-10-17 14:30,,pending,email,202,Conta,5,"Preciso atualizar a descrição do meu perfil, mas não consigo acessar essa opção na conta."
+276,2023-10-05 14:30,2023-10-05 16:06,resolved,email,58,Integrações,0,Estou com dificuldades em integrar minha conta com a API do meu site. Alguém pode me ajudar?
+277,2023-10-12 14:30,2023-10-12 14:40,resolved,email,58,Integrações,15,Estou com dificuldades para integrar minha conta com o plugin de pagamentos. Alguém pode me ajudar?
+278,2023-10-15 14:30,2023-10-15 14:45,resolved,email,203,Integrações,0,Estou tendo dificuldades para integrar minha conta com o Google Analytics. Poderiam me ajudar?
+279,2023-10-15 14:30,2023-10-15 15:14,resolved,email,384,Integrações,12,Estou com dificuldades para integrar minha conta com a API do meu site. Poderiam me ajudar?
+280,2023-10-10 14:30,2023-10-10 15:58,resolved,email,57,Integrações,0,"Estou tendo dificuldades para integrar a minha conta com o serviço de email marketing, vocês podem me ajudar?"
+281,2023-10-15 14:30,2023-10-15 14:51,resolved,email,320,Reembolso,12,Solicitei um reembolso para uma compra feita na semana passada e ainda não tive resposta.
+282,2023-10-10 14:30,2023-10-10 14:44,resolved,email,57,Checkout,10,"Estou tendo problemas para processar o pagamento durante o checkout, a página fica carregando sem finalizar."
+283,2023-10-12 14:22,2023-10-12 15:22,resolved,email,57,Checkout,0,"Estou enfrentando problemas para finalizar a compra, o site não está aceitando meu cartão."
+284,2023-10-10 14:32,2023-10-10 15:55,resolved,email,150,Dúvidas Gerais,0,Gostaria de saber como posso aumentar a visibilidade do meu conteúdo na plataforma.
+285,2023-10-10 14:20,2023-10-10 15:53,resolved,email,55,Dúvidas Gerais,10,Gostaria de saber como posso aumentar a visibilidade dos meus conteúdos na plataforma.
+286,2023-10-03 14:20,,pending,email,204,Dúvidas Gerais,5,Gostaria de saber se há algum limite para o número de vídeos que posso publicar por semana.
+287,2023-10-02 14:20,,pending,email,1456,Financeiro,12,"Gostaria de saber quando meu próximo repasse vai ser realizado, pois ainda não recebi a última atualização."
+288,2023-10-17 14:30,2023-10-17 16:08,resolved,email,205,Integrações,15,Estou tendo dificuldades para integrar minha conta com a ferramenta de email marketing. O processo não conclui.
+289,2023-10-05 14:30,,pending,email,45,Membros gratuitos,15,Estou tendo dificuldades em entender as limitações para os membros gratuitos na minha conta.
+290,2023-10-10 14:30,2023-10-10 16:01,resolved,email,57,Migração,15,Estou com dificuldades para migrar meus conteúdos de outra plataforma. Poderiam me ajudar?
+291,2023-10-15 14:30,2023-10-15 14:53,resolved,email,57,Pagamento,10,"Estou tendo problemas para completar o pagamento do meu plano, meu cartão não está sendo aceito."
+292,2023-10-05 14:30,,pending,email,205,Prevenção,0,Recebi um alerta sobre a suspensão do meu conteúdo e gostaria de entender melhor o que aconteceu.
+293,2023-10-14 14:20,2023-10-14 14:45,resolved,email,207,Produto,0,Estou tendo dificuldades para atualizar as informações do meu produto na plataforma.
+294,2023-10-10 14:30,2023-10-10 15:03,resolved,email,55,Reembolso,0,"Solicitei um reembolso há duas semanas, mas ainda não recebi nenhuma atualização."
+295,2023-10-05 14:30,,pending,email,202,Integrações,15,Estou com dificuldades para integrar minha conta com o plugin de e-mail marketing. Alguém pode me ajudar?
+296,2023-10-10 14:30,2023-10-10 16:08,resolved,email,202,Membros gratuitos,0,Quero entender melhor as limitações que os membros gratuitos têm em relação ao conteúdo que posso oferecer.
+297,2023-10-10 14:30,2023-10-10 15:49,resolved,email,205,Migração,0,Estou com dificuldades para migrar meu conteúdo de outra plataforma. Poderiam me ajudar?
+298,2023-10-20 14:12,2023-10-20 14:50,resolved,email,202,Checkout,0,Estou tendo dificuldades para completar a compra no site. O botão de finalização não está funcionando.
+299,2023-10-20 14:30,2023-10-20 16:00,resolved,email,405,Checkout,12,Estou tendo problemas para finalizar a compra. O botão de pagamento não está funcionando.
+300,2023-10-15 14:40,,pending,email,57,Checkout,10,Estou tendo dificuldades para finalizar a compra de um novo produto na plataforma.
+301,2023-10-05 14:30,2023-10-05 15:19,resolved,email,58,Dúvidas Gerais,0,Gostaria de saber como posso aumentar a visibilidade do meu conteúdo na plataforma.
+302,2023-10-10 14:30,2023-10-10 16:05,resolved,email,204,Dúvidas Gerais,0,Gostaria de saber como funcionam as promoções para novos criadores na plataforma.
+303,2023-10-05 14:20,2023-10-05 15:11,resolved,email,205,Checkout,0,"Estou tendo problemas para finalizar a compra no meu site, o sistema não está aceitando o método de pagamento."
+304,2023-10-15 14:32,,pending,email,205,Dúvidas Gerais,0,Gostaria de saber como posso aumentar a visibilidade dos meus conteúdos na plataforma.
+305,2023-10-15 14:32,2023-10-15 15:19,resolved,email,204,Prevenção,0,"Recebi um alerta sobre uma possível suspensão da minha conta, preciso de ajuda para entender mais sobre isso."
+306,2023-10-08 14:30,2023-10-08 15:55,resolved,email,57,Acesso,0,Estou com dificuldades para acessar minha conta. Minha senha não está sendo aceita.
+307,2023-10-21 14:30,,escalated,email,203,Checkout,0,"Estou enfrentando problemas para realizar o checkout no meu produto, a página não carrega."
+308,2023-10-02 14:30,,pending,email,202,Acesso,0,Estou tendo problemas para fazer login na minha conta. A senha não está sendo aceita.
+309,2023-10-15 14:30,2023-10-15 14:45,resolved,email,152,Assinatura,10,Estou com dificuldades para fazer o upgrade da minha assinatura. Poderiam me ajudar?
+310,2023-10-15 14:30,2023-10-15 14:42,resolved,email,204,Checkout,0,Estou enfrentando problemas na finalização da compra. O botão de confirmar o pagamento não está funcionando.
+311,2023-10-05 14:30,,pending,email,202,Conta,15,"Preciso atualizar as informações do meu perfil, mas não encontro a opção."
+312,2023-10-04 14:30,,pending,email,205,Dúvidas Gerais,12,Gostaria de saber como posso aumentar o engajamento dos meus seguidores na plataforma.
+313,2023-10-15 14:30,2023-10-15 16:08,resolved,email,204,Financeiro,15,Estou tendo dificuldades para acessar meu extrato financeiro e não sei como resolver.
+314,2023-10-15 14:30,2023-10-15 14:49,resolved,email,202,Prevenção,0,"Recebi um alerta sobre a suspensão da minha conta, mas não fiz nada que violasse as regras. Podem me ajudar?"
+315,2023-10-10 14:30,2023-10-10 14:44,resolved,email,2501,Acesso,0,"Estou tendo problemas para acessar minha conta, a senha parece não estar funcionando."
+316,2023-10-10 14:30,2023-10-10 16:08,resolved,email,202,Dúvidas Gerais,5,Gostaria de saber como posso aumentar a visibilidade dos meus conteúdos na plataforma.
+317,2023-10-10 14:30,,pending,email,204,Checkout,5,"Estou tentando finalizar uma compra, mas o sistema está apresentando erro no checkout."
+318,2023-10-15 14:30,,pending,email,205,Dúvidas Gerais,0,Gostaria de saber mais sobre as funcionalidades disponíveis para criadores na plataforma.
+319,2023-10-23 14:30,2023-10-23 15:30,resolved,email,202,Prevenção,12,"Estou recebendo alertas de possíveis conteúdos problemáticos, mas não sei como corrigir isso. Poderiam me ajudar?"
+320,2023-10-02 15:30,2023-10-02 16:43,resolved,email,204,Acesso,5,"Estou tendo dificuldades para acessar minha conta, minha senha não está funcionando."
+321,2023-10-04 14:22,2023-10-04 15:01,resolved,email,157,Checkout,0,"Estou enfrentando problemas para finalizar minha compra, o botão de pagar não está funcionando."
+322,2023-10-10 14:30,2023-10-10 15:26,resolved,email,245,Acesso,12,"Estou com dificuldades para acessar minha conta, não consigo fazer login."
+323,2023-10-10 14:20,2023-10-10 14:52,resolved,email,1024,Assinatura,5,"Preciso de ajuda para trocar meu plano de assinatura, não consigo encontrar essa opção na plataforma."
+324,2023-10-15 14:30,,pending,email,258,Checkout,5,"Estou tendo dificuldades para finalizar a compra, a página de checkout não carrega."
+325,2023-10-03 14:27,2023-10-03 15:35,resolved,email,202,Conta,0,Preciso atualizar meu perfil com uma nova imagem e não consigo acessar essa opção.
+326,2023-10-10 14:30,,pending,email,204,Dúvidas Gerais,0,Gostaria de saber como posso aumentar a visibilidade dos meus conteúdos na plataforma.
+327,2023-10-12 14:30,,pending,email,205,Financeiro,5,"Estou com dúvidas sobre o meu extrato financeiro deste mês, poderia explicar os valores que estão aparecendo?"
+328,2023-10-10 14:30,2023-10-10 15:28,resolved,email,204,Integrações,0,Estou tendo dificuldades para integrar a plataforma com a ferramenta de automação de marketing que uso.
+329,2023-10-15 14:30,,pending,email,205,Produto,10,Estou com dificuldades para entender como funciona a nova ferramenta de análise de desempenho do meu conteúdo.
+330,2023-10-10 14:30,2023-10-10 16:02,resolved,email,205,Reembolso,12,Solicitei um reembolso há mais de uma semana e não recebi nenhuma atualização.
+331,2023-10-15 14:20,2023-10-15 15:25,resolved,email,202,Membros gratuitos,0,Estou com dúvidas sobre as funcionalidades que os membros gratuitos têm acesso na minha conta.
+332,2023-10-15 14:30,2023-10-15 14:42,resolved,email,205,Reembolso,8,Solicitei um reembolso há uma semana e ainda não recebi novidades sobre o status.
+333,2023-10-18 14:30,2023-10-18 15:32,resolved,email,205,Conta,12,Preciso de ajuda para atualizar as informações do meu perfil na plataforma.
+334,2023-10-10 14:30,2023-10-10 15:40,resolved,email,789,Conta,15,Estou tendo problemas para atualizar as informações do meu perfil. Não consigo acessar a seção de configurações.
+335,2023-10-10 14:30,2023-10-10 14:44,resolved,email,202,Integrações,15,Estou tendo dificuldades para integrar a plataforma com o meu sistema de CRM. Poderiam me ajudar?
+336,2023-10-05 14:30,2023-10-05 15:51,resolved,email,245,Integrações,15,Estou com dificuldades para integrar a plataforma com a minha ferramenta de e-mail marketing.
+337,2023-10-05 14:20,2023-10-05 14:45,resolved,email,204,Reembolso,10,"Solicitei um reembolso na última semana, mas não recebi confirmação sobre o status."
+338,2023-10-05 14:20,2023-10-05 14:45,resolved,email,567,Reembolso,10,"Gostaria de solicitar um reembolso para a última compra que fiz, pois o produto não atendeu às minhas expectativas."
+339,2023-10-07 14:30,2023-10-07 15:49,resolved,email,2002,Reembolso,0,Solicitei um reembolso na semana passada e ainda não obtive respostas. Poderiam me ajudar?
+340,2023-10-22 14:35,2023-10-22 15:05,resolved,email,205,Reembolso,10,"Solicitei um reembolso para o último pagamento, mas ainda não recebi confirmação."
+341,2023-10-15 14:23,2023-10-15 14:57,resolved,email,207,Reembolso,10,"Solicitei um reembolso na semana passada, mas ainda não recebi nenhuma atualização sobre o processo."
+342,2023-10-23 14:30,,pending,email,215,Reembolso,10,"Solicitei um reembolso na semana passada, mas ainda não tive retorno sobre o status."
+343,2023-10-05 15:30,2023-10-05 16:00,resolved,email,202,Reembolso,12,Preciso de um reembolso para uma transação que foi feita por engano. Como posso proceder?
+344,2023-10-05 14:30,2023-10-06 09:45,resolved,email,205,Reembolso,12,Solicitei um reembolso na semana passada e até agora não recebi nenhuma atualização.
+345,2023-10-15 14:30,2023-10-15 14:59,resolved,email,202,Financeiro,0,Estou tendo dificuldades em entender meu extrato financeiro deste mês. Poderiam me ajudar?
+346,2023-10-15 14:30,2023-10-15 14:57,resolved,email,205,Integrações,0,Estou com dificuldades para integrar a plataforma com meu sistema de e-mail marketing. Não consigo conectar as contas.
+347,2023-10-30 14:20,2023-10-30 14:53,resolved,email,203,Membros gratuitos,0,Gostaria de saber quais são as limitações para os membros gratuitos em minha conta.
+348,2023-10-15 14:32,2023-10-15 14:42,resolved,email,205,Migração,15,Estou com dificuldades para migrar meu conteúdo de outra plataforma para cá. Poderiam me ajudar?
+349,2023-10-01 14:20,,pending,email,207,Pagamento,0,Estou tendo problemas para processar um pagamento com meu cartão. Não está sendo aceito.
+350,2023-10-10 14:30,2023-10-10 15:34,resolved,email,245,Prevenção,0,"Estou recebendo alertas de suspensão na minha conta, mas não sei o motivo. Podem ajudar?"
+351,2025-09-01 14:30,2025-09-01 14:45,resolved,email,202,Produto,10,Estou tendo dificuldades para usar a nova funcionalidade de agendamento de posts.
+352,2023-10-15 14:30,2023-10-15 14:50,resolved,email,204,Reembolso,10,Solicitei um reembolso há uma semana e ainda não recebi retorno. Poderiam me ajudar?
+353,2023-10-05 14:22,2023-10-05 15:36,resolved,email,207,Integrações,10,Estou tendo problemas para integrar minha conta com o plugin do WordPress. Não consigo encontrar a opção correta.
+354,2023-10-10 14:30,2023-10-10 15:35,resolved,email,202,Membros gratuitos,0,Tenho uma dúvida sobre como funcionam as limitações para membros gratuitos na minha conta.
+355,2023-10-01 14:30,,pending,email,202,Dúvidas Gerais,15,Gostaria de saber como posso aumentar a visibilidade dos meus conteúdos na plataforma.
+356,2023-10-15 14:32,2023-10-15 14:52,resolved,email,202,Checkout,0,Estou tendo dificuldades para finalizar a compra. O botão de checkout não está funcionando.
+357,2023-10-19 14:30,2023-10-19 16:04,resolved,email,204,Dúvidas Gerais,5,Gostaria de saber como posso aumentar a visibilidade dos meus conteúdos na plataforma.
+358,2023-10-10 14:30,2023-10-10 15:08,resolved,email,202,Prevenção,0,"Recebi um alerta sobre conteúdo problemático, mas não sei como resolver isso. Poderiam me ajudar?"
+359,2023-10-10 14:30,2023-10-10 15:47,resolved,email,204,Acesso,8,Estou tendo problemas para acessar minha conta. A senha que estou usando não está funcionando.
+360,2023-10-25 14:30,2023-10-25 15:25,resolved,email,202,Checkout,5,"Estou tendo dificuldades para finalizar uma compra, parece que o sistema não aceita meu cartão."
+361,2023-10-10 14:22,2023-10-10 15:39,resolved,email,205,Acesso,15,"Estou com problemas para fazer login na minha conta, a senha não está sendo aceita."
+362,2023-10-07 14:30,2023-10-07 15:51,resolved,email,205,Assinatura,0,Gostaria de saber como posso fazer o downgrade do meu plano de assinatura.
+363,2023-10-10 14:20,,pending,email,202,Checkout,0,"Estou tendo problemas para finalizar a compra, a página de checkout não carrega."
+364,2023-10-11 14:30,2023-10-11 14:48,resolved,email,156,Conta,12,"Preciso atualizar meu perfil, mas não estou conseguindo acessar as configurações da conta."
+365,2023-10-05 14:20,,pending,email,210,Dúvidas Gerais,10,Gostaria de saber como posso aumentar a visibilidade dos meus conteúdos na plataforma.
+366,2023-10-10 14:30,2023-10-10 14:57,resolved,email,202,Financeiro,0,"Preciso de ajuda para entender o extrato financeiro do mês passado, ele está inconsistente."
+367,2023-10-05 14:30,2023-10-05 15:54,resolved,email,205,Prevenção,0,"Recebi um alerta sobre conteúdo problemático, mas não sei como proceder para evitar a suspensão da conta."
+368,2023-10-05 14:30,,pending,email,203,Acesso,15,"Não consigo acessar minha conta desde ontem. Tive minha senha resetada, mas não está funcionando."
+369,2023-10-10 14:30,,pending,email,204,Dúvidas Gerais,0,Gostaria de saber como posso melhorar a divulgação dos meus conteúdos na plataforma.
+370,2023-10-10 14:32,2023-10-10 13:10,resolved,email,202,Checkout,8,"Estou recebendo um erro quando tento finalizar a compra, parece que o sistema não aceita meu cartão."
+371,2023-10-15 14:35,2023-10-15 15:06,resolved,email,503,Dúvidas Gerais,10,Quais são as principais funcionalidades que a plataforma oferece para criadores?
+372,2023-10-02 14:30,2023-10-02 15:09,resolved,email,205,Prevenção,0,"Recebi um alerta de que um de meus conteúdos pode estar infringindo as regras, mas não encontrei nada errado. Podem me ajudar a entender melhor?"
+373,2023-10-15 14:30,2023-10-15 15:37,resolved,email,202,Acesso,10,"Estou tendo problemas para acessar minha conta, minha senha parece estar correta, mas não consigo entrar."
+374,2023-10-03 14:32,2023-10-03 15:27,resolved,email,87,Checkout,8,"Estou tendo problemas para finalizar uma compra, o botão de pagamento não está funcionando."
+375,2023-10-12 14:20,2023-10-12 15:19,resolved,email,205,Acesso,0,"Estou com problemas para acessar minha conta, diz que minha senha está incorreta, mas tenho certeza de que está certa."
+376,2023-10-10 14:45,2023-10-10 15:07,resolved,email,204,Assinatura,5,Estou tendo dificuldades para fazer o upgrade do meu plano de assinatura.
+377,2023-10-12 14:30,2023-10-12 15:15,resolved,email,205,Checkout,0,Estou enfrentando problemas ao tentar finalizar a compra do meu produto. Sempre aparece uma mensagem de erro.
+378,2023-10-10 14:22,2023-10-10 15:09,resolved,email,512,Conta,0,"Preciso atualizar as informações do meu perfil, mas não estou conseguindo acessar a área de configurações."
+379,2023-10-20 14:30,2023-10-20 14:45,resolved,email,202,Dúvidas Gerais,0,Preciso de ajuda para entender como funcionam as métricas de desempenho na plataforma.
+380,2023-10-27 14:22,,pending,email,2205,Financeiro,12,Estou com dificuldades para entender meu relatório financeiro do mês passado.
+381,2023-10-05 14:30,,pending,email,245,Integrações,12,Tenho dificuldades para integrar a plataforma com meu CRM. Alguém pode me ajudar?
+382,2023-10-12 14:30,2023-10-12 15:21,resolved,email,205,Produto,12,Estou tendo dificuldade em entender como adicionar novos módulos ao meu curso na plataforma.
+383,2023-10-10 14:20,,pending,email,202,Reembolso,8,Gostaria de solicitar um reembolso para uma assinatura que não utilizei.
+384,2023-10-10 14:30,2023-10-10 14:53,resolved,email,202,Membros gratuitos,0,Estou com dificuldades para entender as limitações dos meus membros gratuitos na plataforma.
+385,2023-10-01 14:30,2023-10-01 15:58,resolved,email,202,Reembolso,12,"Solicitei um reembolso na semana passada, mas ainda não recebi nenhuma confirmação."
+386,2023-10-05 14:30,2023-10-05 15:32,resolved,email,204,Conta,15,Preciso de ajuda para atualizar as informações do meu perfil na conta.
+387,2023-10-18 14:30,2023-10-18 14:45,resolved,email,215,Conta,0,"Preciso atualizar minhas informações de perfil, mas não consigo acessar a página de configurações."
+388,2023-10-20 14:22,2023-10-20 15:08,resolved,email,205,Integrações,12,Estou com dificuldades para integrar a plataforma com meu sistema de gerenciamento de conteúdo. Alguém pode me ajudar?
+389,2023-10-03 14:30,2023-10-03 14:40,resolved,email,204,Integrações,15,Estou tendo dificuldades para integrar a minha conta com a API da plataforma. Poderiam me ajudar?
+390,2023-10-10 14:20,2023-10-10 15:01,resolved,email,205,Integrações,15,Estou com dificuldades para integrar minha conta com a API externa que utilizo.
+391,2023-10-10 14:20,2023-10-10 15:52,resolved,email,203,Integrações,15,Estou com dificuldade para integrar minha conta com a API do sistema que uso atualmente.
+392,2023-10-05 14:20,2023-10-05 15:53,resolved,email,205,Integrações,15,Estou tendo dificuldades para integrar a plataforma com a ferramenta X. Pode ajudar?
+393,2023-10-10 14:30,2023-10-10 15:27,resolved,email,204,Acesso,15,"Não consigo acessar minha conta, minha senha não está sendo aceita."
+394,2023-10-05 15:20,2023-10-05 16:35,resolved,email,212,Checkout,12,"Estou enfrentando problemas na finalização da compra, o botão não está funcionando."
+395,2023-10-15 14:30,2023-10-15 15:28,resolved,email,204,Acesso,12,"Não estou conseguindo acessar minha conta, a senha não está sendo aceita."
+396,2023-10-15 11:30,2023-10-15 12:31,resolved,email,205,Assinatura,0,"Estou com dificuldades para atualizar meu plano de assinatura, o sistema não aceita meu cartão."
+397,2023-10-10 14:30,,pending,email,204,Checkout,5,"Estou tendo problemas para finalizar a compra, o botão de pagamento não está respondendo."
+398,2023-10-10 14:30,,pending,email,257,Conta,5,Estou tendo dificuldades para atualizar minha foto de perfil. Poderiam me ajudar?
+399,2023-10-10 14:30,2023-10-10 15:08,resolved,email,87,Dúvidas Gerais,12,Gostaria de saber como funciona a monetização na plataforma e quais são as regras.
+400,2023-10-10 14:30,2023-10-10 15:57,resolved,email,205,Financeiro,5,Gostaria de saber quando será o próximo repasse e se houve alguma alteração no valor.
+401,2023-10-15 14:32,2023-10-15 15:17,resolved,email,205,Integrações,0,Estou tendo dificuldades para conectar minha conta com a ferramenta de automação que uso.
+402,2023-10-27 14:45,,pending,email,205,Membros gratuitos,15,Quero saber se os membros gratuitos têm acesso a conteúdo exclusivo ou apenas ao básico.
+403,2023-10-12 14:20,2023-10-12 15:36,resolved,email,205,Migração,12,Estou tendo dificuldades para migrar meus conteúdos de outra plataforma para cá. Pode me ajudar?
+404,2023-10-15 15:30,2023-10-15 16:30,resolved,email,205,Pagamento,5,"Estou tendo problemas com a cobrança do meu último pagamento, não consigo ver o recibo."
+405,2023-10-15 14:20,2023-10-15 14:37,resolved,email,202,Prevenção,0,"Recebi um aviso sobre a suspensão da minha conta, mas não sei o motivo. Poderiam me ajudar?"
+406,2023-10-20 14:30,2023-10-20 15:31,resolved,email,202,Produto,12,Estou enfrentando problemas com a nova funcionalidade de agendamento de postagens. Não consigo encontrar onde ativar.
+407,2023-10-10 14:30,,pending,email,204,Reembolso,12,Solicitei um reembolso na semana passada e não recebi nenhuma atualização até agora.
+408,2023-10-05 14:30,2023-10-05 15:53,resolved,email,202,Integrações,10,"Estou com dificuldades para integrar minha conta com a ferramenta de e-mail marketing, não consigo encontrar as instruções corretas."
+409,2023-10-20 14:30,2023-10-20 15:20,resolved,email,205,Membros gratuitos,0,Estou com problemas para saber quais funcionalidades estão disponíveis para membros gratuitos na plataforma.
+410,2023-10-05 14:32,2023-10-05 14:59,resolved,email,202,Migração,15,Estou tendo dificuldades para migrar meus conteúdos de outra plataforma. Poderiam me ajudar?
+411,2023-10-05 14:45,2023-10-05 15:08,resolved,email,202,Pagamento,15,"Estou com problemas para processar o pagamento do meu último pedido. O cartão foi recusado, mas não entendi o motivo."
+412,2023-10-10 15:45,2023-10-10 16:17,resolved,email,205,Prevenção,12,Recebi um alerta sobre possíveis conteúdos problemáticos na minha conta. Preciso de ajuda para resolver isso.
+413,2023-10-15 14:45,2023-10-15 15:10,resolved,email,202,Produto,0,Estou enfrentando dificuldades para usar uma nova funcionalidade do produto e não encontrei informações no suporte.
+414,2023-10-25 14:30,2023-10-25 15:35,resolved,email,205,Produto,15,"Estou enfrentando dificuldades com uma nova funcionalidade do produto, não consigo entender como utilizá-la."
+415,2023-10-10 14:30,2023-10-10 15:00,resolved,email,210,Produto,10,"Gostaria de sugerir uma nova funcionalidade para a plataforma, onde eu possa personalizar mais os layouts das minhas páginas."
+416,2023-10-10 15:45,2023-10-10 16:10,resolved,email,204,Produto,12,Estou com dificuldades para entender como usar a nova funcionalidade de análises de dados que foi lançada.
+417,2023-10-15 14:32,2023-10-15 14:45,resolved,email,78,Reembolso,10,Solicitei um reembolso há algumas semanas e ainda não recebi confirmação.
+418,2023-10-03 14:30,2023-10-03 15:18,resolved,email,256,Membros gratuitos,15,Gostaria de saber quais são as limitações para os membros gratuitos na minha conta.
+419,2023-10-02 14:30,2023-10-02 15:00,resolved,email,205,Reembolso,15,Solicitei um reembolso na semana passada e ainda não recebi confirmação. Poderiam me ajudar?
+420,2023-10-01 14:30,,escalated,email,102,Integrações,0,Estou tendo dificuldades para integrar a plataforma com a ferramenta de email marketing. Alguma dica?
+421,2023-10-15 14:30,2023-10-15 15:50,resolved,email,303,Produto,12,Estou tendo dificuldades para entender como funcionam as novas funcionalidades da plataforma. Poderiam me ajudar?
+422,2023-10-10 14:30,,pending,email,57,Reembolso,0,"Solicitei um reembolso há alguns dias, mas ainda não obtive resposta sobre o status."
+423,2023-10-07 14:30,2023-10-07 15:58,resolved,email,205,Membros gratuitos,12,Estou tendo dificuldades para entender as limitações dos membros gratuitos na minha conta. Poderiam me ajudar?
+424,2023-10-15 14:30,2023-10-15 15:37,resolved,email,205,Reembolso,12,"Solicitei um reembolso para uma assinatura que não usei, mas até agora não recebi nenhuma confirmação."
+425,2023-10-05 14:30,2023-10-05 14:47,resolved,email,150,Conta,15,"Preciso atualizar meu perfil, mas não estou conseguindo acessar as configurações da minha conta."
+426,2023-10-12 14:30,2023-10-12 16:07,resolved,email,202,Conta,12,Estou com dificuldades para atualizar as informações do meu perfil.
+427,2023-10-10 14:30,,pending,email,205,Integrações,12,Estou com dificuldades para integrar a minha conta com o serviço de e-mail marketing. Não consigo acessar as configurações.
+428,2023-10-20 15:30,2023-10-20 15:47,resolved,email,212,Integrações,12,"Estou com dificuldades para integrar minha conta com o Google Analytics, não consigo encontrar as configurações corretas."
+429,2023-10-10 14:30,2023-10-10 15:48,resolved,email,205,Dúvidas Gerais,12,Gostaria de saber como funciona o programa de parceria da plataforma.
+430,2023-10-10 14:30,2023-10-10 15:53,resolved,email,205,Financeiro,0,"Preciso de ajuda com meu extrato financeiro, parece que algumas transações não foram contabilizadas corretamente."
+431,2023-10-15 14:30,,pending,email,204,Integrações,5,Estou com dificuldades para integrar minha conta com o Google Analytics e não consigo visualizar os dados.
+432,2023-10-10 14:30,2023-10-10 16:09,resolved,email,215,Produto,12,Estou tendo dificuldades para entender como usar a nova funcionalidade de analytics na plataforma.
+433,2023-10-08 11:20,2023-10-08 11:45,resolved,email,205,Reembolso,15,"Solicitei um reembolso para um produto que comprei, mas não recebi confirmação."
+434,2023-10-02 14:30,2023-10-02 15:18,resolved,email,305,Membros gratuitos,0,Estou com dúvidas sobre como funciona a limitação de membros gratuitos na plataforma.
+435,2023-10-05 14:30,2023-10-05 16:06,resolved,email,256,Reembolso,0,Gostaria de solicitar o reembolso de uma cobrança indevida que apareceu na minha conta.
+436,2023-10-01 14:30,2023-10-01 15:41,resolved,email,204,Conta,15,"Preciso de ajuda para atualizar os dados do meu perfil, não estou conseguindo acessar as configurações."
+437,2023-10-05 14:30,2023-10-05 15:04,resolved,email,205,Conta,0,"Preciso atualizar minhas informações de perfil na plataforma, mas não consigo encontrar a opção."
+438,2023-10-12 14:30,,pending,email,256,Integrações,10,Estou com dificuldades para integrar minha conta com a plataforma de e-mail marketing. Alguém pode me ajuda?
+439,2023-10-12 14:30,2023-10-12 14:47,resolved,email,520,Integrações,15,Estou com dificuldades para integrar a minha conta com o plugin de newsletter. Poderiam ajudar?
+440,2023-10-15 14:30,2023-10-15 15:32,resolved,email,205,Integrações,0,Estou tendo dificuldades para integrar a plataforma com meu sistema de gestão. Alguma orientação?
+441,2023-10-17 14:20,2023-10-17 14:54,resolved,email,205,Integrações,5,Estou tendo dificuldades para conectar a plataforma com minha ferramenta de e-mail marketing.
+442,2023-10-15 14:20,2023-10-15 15:03,resolved,email,202,Integrações,10,"Estou com dificuldades para integrar minha conta com a ferramenta de gestão que uso, alguém pode ajudar?"
+443,2023-10-15 14:30,2023-10-15 15:24,resolved,email,256,Acesso,5,"Estou tendo dificuldades para fazer login na minha conta, a senha não está sendo aceita."
+444,2023-10-15 14:30,2023-10-15 15:07,resolved,email,205,Checkout,12,"Estou enfrentando problemas ao tentar finalizar a compra, o sistema simplesmente não avança."
+445,2023-10-15 14:30,,pending,email,205,Acesso,0,Estou tendo problemas para fazer login na plataforma. Minha senha não está sendo aceita.
+446,2023-10-10 14:30,2023-10-10 15:09,resolved,email,205,Assinatura,12,"Estou com dificuldades para renovar minha assinatura, não aparece a opção no meu painel."
+447,2023-10-21 14:30,2023-10-21 15:01,resolved,email,205,Checkout,15,Estou enfrentando problemas na finalização da compra. O sistema não está aceitando meu cartão.
+448,2023-10-05 14:30,2023-10-05 14:40,resolved,email,202,Prevenção,0,Recebi um aviso sobre um possível problema com meu conteúdo e gostaria de esclarecimentos sobre como isso funciona.
+449,2023-10-17 14:20,2023-10-17 15:24,resolved,email,229,Prevenção,0,"Recebi um alerta sobre conteúdo problemático, mas não sei como corrigir isso."
+450,2023-10-01 14:30,2023-10-01 16:04,resolved,email,202,Checkout,10,Estou tendo problemas ao tentar finalizar a compra no meu produto. O sistema não está aceitando meu cartão.
+451,2023-10-15 14:30,2023-10-15 14:58,resolved,email,202,Acesso,15,"Estou com dificuldades para acessar minha conta, não consigo fazer login."
+452,2023-10-01 14:30,2023-10-01 15:36,resolved,email,205,Assinatura,10,"Estou tendo dificuldades para mudar meu plano de assinatura. Pode me ajudar, por favor?"
+453,2025-09-15 14:30,2025-09-15 14:53,resolved,email,207,Financeiro,12,"Estou com dúvidas sobre o repasse do mês passado, o valor não bate com o que esperava."
+454,2023-10-21 14:30,2023-10-21 15:26,resolved,email,202,Financeiro,5,Estou com dúvidas sobre o meu relatório financeiro do mês passado. Não consigo entender algumas transações.
+455,2023-10-15 14:22,2023-10-15 15:51,resolved,email,312,Checkout,10,"Estou com problemas para finalizar a compra, sempre aparece uma mensagem de erro."
+456,2023-10-05 14:30,2023-10-05 15:01,resolved,email,202,Dúvidas Gerais,15,Gostaria de saber como funcionam as opções de monetização na plataforma.
+457,2023-10-01 14:20,2023-10-01 14:37,resolved,email,158,Prevenção,0,"Recebi um alerta sobre uma possível suspensão do meu conteúdo, mas não sei o que aconteceu. Poderiam me explicar?"
+458,2023-10-05 14:32,2023-10-05 14:52,resolved,email,202,Produto,5,Estou tendo dificuldades para inserir novos vídeos no meu canal. Alguma funcionalidade nova?
+459,2023-10-15 14:20,2023-10-15 15:49,resolved,email,205,Reembolso,5,Solicitei um reembolso há alguns dias e ainda não recebi nenhuma resposta.
+460,2023-10-01 15:25,2023-10-01 17:03,resolved,email,342,Integrações,12,Estou tendo dificuldades para integrar minha conta com a ferramenta de email marketing. Alguém pode ajudar?
+461,2023-10-15 14:30,2023-10-15 15:20,resolved,email,204,Membros gratuitos,7,"Estou tendo problemas para adicionar um membro gratuito à minha lista, ele não está recebendo o convite."
+462,2023-10-18 14:30,2023-10-18 15:26,resolved,email,245,Migração,10,"Estou tentando migrar meus conteúdos de outra plataforma, mas estou enfrentando dificuldades. Poderiam ajudar?"
+463,2023-10-04 14:30,2023-10-04 14:40,resolved,email,205,Pagamento,10,"Estou tendo problemas para processar um pagamento, o sistema não aceita meu cartão."
+464,2023-10-10 14:20,2023-10-10 15:39,resolved,email,205,Acesso,0,"Não consigo acessar minha conta, diz que minha senha está incorreta, mas estou certo dela."
+465,2023-10-10 14:30,,pending,email,203,Assinatura,15,Estou tendo problemas para mudar minha assinatura de mensal para anual. Pode me ajudar?
+466,2023-10-10 14:30,2023-10-10 14:47,resolved,email,205,Financeiro,0,"Preciso de ajuda com o meu extrato financeiro, não consigo entender algumas cobranças."
+467,2023-10-01 14:20,2023-10-01 15:41,resolved,email,215,Financeiro,5,Gostaria de saber quando vou receber meu próximo pagamento referente aos meus conteúdos.
+468,2023-10-12 14:30,2023-10-12 15:58,resolved,email,205,Dúvidas Gerais,12,Gostaria de saber como funcionam as métricas de engajamento na plataforma.
+469,2023-10-15 14:20,2023-10-15 15:33,resolved,email,202,Financeiro,12,Preciso de ajuda para entender a data do próximo repasse financeiro e o valor que será creditado.
+470,2023-10-18 14:30,2023-10-18 14:56,resolved,email,205,Checkout,12,"Estou enfrentando dificuldades para finalizar a compra do meu curso, o botão de pagamento não está funcionando."
+471,2023-10-20 14:22,2023-10-20 15:13,resolved,email,256,Checkout,12,"Estou enfrentando dificuldades para concluir uma compra, aparece um erro na página ao tentar finalizar."
+472,2023-10-11 14:30,2023-10-11 14:48,resolved,email,256,Checkout,0,Estou enfrentando problemas para finalizar a compra de um produto. O botão de pagamento não está funcionando.
+473,2023-10-14 15:30,2023-10-14 15:42,resolved,email,205,Acesso,0,"Não estou conseguindo fazer login na minha conta, o sistema diz que a senha está incorreta."
+474,2023-10-18 14:32,2023-10-18 16:04,resolved,email,305,Assinatura,0,"Não estou conseguindo fazer o upgrade da minha assinatura. Pode me ajudar, por favor?"
+475,2023-10-10 14:30,,pending,email,205,Checkout,12,"Estou tendo problemas para finalizar a compra na minha loja, o sistema não aceita o método de pagamento."
+476,2023-10-05 14:35,2023-10-05 14:46,resolved,email,205,Conta,12,"Preciso atualizar a foto de perfil da minha conta, mas não estou conseguindo acessar as configurações."
+477,2023-10-12 14:30,,pending,email,205,Checkout,5,"Estou enfrentando problemas para finalizar a compra, a página simplesmente não carrega."
+478,2023-10-10 14:30,2023-10-10 15:53,resolved,email,256,Checkout,12,"Estou com problemas para finalizar uma compra, a página não carrega depois que clico em 'pagar'."
+479,2023-10-15 14:30,2023-10-15 15:06,resolved,email,205,Checkout,12,"Estou enfrentando dificuldades para finalizar a compra de um produto, o botão de pagamento não está respondendo."
+480,2023-10-15 14:30,2023-10-15 15:54,resolved,email,205,Dúvidas Gerais,5,Gostaria de entender melhor como funcionam as taxas aplicadas sobre os meus ganhos na plataforma.
+481,2023-10-15 14:30,2023-10-15 15:55,resolved,email,250,Dúvidas Gerais,0,Gostaria de saber como posso aumentar o engajamento dos meus seguidores na plataforma.
+482,2023-10-15 14:30,2023-10-15 15:03,resolved,email,158,Prevenção,0,"Recebi um alerta sobre a possibilidade de conteúdo problemático no meu perfil, preciso de ajuda para entender melhor."
+483,2023-10-05 14:30,2023-10-05 16:04,resolved,email,204,Acesso,12,"Estou tendo problemas para entrar na minha conta, sempre recebo uma mensagem de erro."
+484,2023-10-26 14:32,2023-10-26 15:23,resolved,email,302,Dúvidas Gerais,0,Gostaria de saber como posso utilizar melhor as funcionalidades da plataforma para engajar meus seguidores.
+485,2023-10-15 14:30,,pending,email,252,Checkout,5,"Estou enfrentando problemas ao tentar finalizar a compra do meu produto, o sistema não aceita meu cartão."
+486,2023-10-16 14:30,2023-10-16 15:20,resolved,email,204,Dúvidas Gerais,0,Gostaria de saber como funciona o sistema de monetização da plataforma.
+487,2023-10-03 14:35,2023-10-03 15:15,resolved,email,205,Prevenção,7,Recebi um aviso de possível suspensão do meu conteúdo. Pode verificar o que está acontecendo?
+488,2023-10-14 14:20,2023-10-14 13:19,resolved,email,254,Acesso,15,"Estou tendo dificuldades para fazer login na minha conta, a senha não está sendo aceita."
+489,2023-10-11 14:30,2023-10-11 15:01,resolved,email,205,Checkout,15,"Estou enfrentando um problema ao tentar pagar com boleto, não consigo gerar o documento."
+490,2023-10-15 14:30,,pending,email,205,Acesso,7,"Não consigo acessar a minha conta, diz que minha senha está incorreta."
+491,2023-10-05 14:30,,pending,email,205,Assinatura,10,Estou com dificuldade para renovar minha assinatura e não encontrei a opção no meu painel.
+492,2023-10-10 14:30,2023-10-10 15:10,resolved,email,205,Checkout,10,Estou enfrentando problemas ao tentar finalizar uma compra. O sistema não aceita o meu cartão.
+493,2023-10-12 14:30,2023-10-12 15:27,resolved,email,205,Conta,0,"Preciso atualizar algumas informações do meu perfil, mas não encontro a opção para isso."
+494,2023-10-09 14:30,2023-10-09 15:42,resolved,email,205,Dúvidas Gerais,15,Gostaria de saber como posso promover meu conteúdo de forma mais eficaz na plataforma.
+495,2023-10-16 14:30,2023-10-16 16:02,resolved,email,215,Financeiro,15,Estou sem conseguir acessar meu relatório de faturamento e preciso dele para o próximo pagamento.
+496,2023-10-15 14:30,,pending,email,223,Integrações,0,Estou com dificuldades para integrar minha conta com a ferramenta de email marketing.
+497,2023-10-10 14:30,,pending,email,203,Produto,12,Estou tendo dificuldades para usar a nova funcionalidade de agendamento de postagens. Poderiam me ajudar?
+498,2023-10-10 14:30,2023-10-10 15:20,resolved,email,202,Reembolso,8,"Solicitei um reembolso há alguns dias, mas ainda não recebi uma confirmação."
+499,2023-10-20 14:30,2023-10-20 15:15,resolved,email,205,Membros gratuitos,0,Não estou conseguindo entender as limitações dos usuários gratuitos na plataforma.
+500,2023-10-12 14:30,2023-10-12 16:10,resolved,email,250,Reembolso,15,"Gostaria de solicitar um reembolso de uma compra recente, pois o conteúdo não atendeu minhas expectativas."
+501,2023-10-15 14:30,2023-10-15 16:00,resolved,email,204,Conta,0,Estou tendo dificuldades para atualizar as informações do meu perfil. O que posso fazer?
+502,2023-10-01 14:20,2023-10-01 14:44,resolved,email,205,Conta,12,"Preciso de ajuda para atualizar as informações do meu perfil, mas não consigo acessar as configurações."
+503,2023-10-24 14:30,,pending,email,204,Integrações,12,Estou tendo dificuldades para integrar a plataforma com a ferramenta de e-mail marketing. Pode me ajudar?
+504,2023-10-10 14:30,2023-10-10 15:53,resolved,email,305,Integrações,5,Estou tendo dificuldades para integrar minha conta com a ferramenta de automação que uso.
+505,2023-10-15 14:30,2023-10-15 15:00,resolved,email,203,Reembolso,10,Solicitei um reembolso há uma semana e ainda não recebi notícias.
+506,2023-09-30 14:20,2023-09-30 14:33,resolved,email,234,Reembolso,12,Solicitei um reembolso há uma semana e ainda não recebi nenhuma atualização sobre o status.
+507,2023-10-13 14:45,,pending,email,205,Conta,10,Estou tendo dificuldades para atualizar as informações do meu perfil na plataforma.
+508,2023-10-25 14:35,2023-10-25 14:54,resolved,email,202,Integrações,15,Estou tendo dificuldades para integrar minha conta com o Zapier. Poderiam me ajudar?
+509,2023-10-10 14:20,2023-10-10 14:38,resolved,email,202,Integrações,12,Estou tendo dificuldades para integrar a minha conta com a ferramenta de marketing que uso. Alguém pode me ajudar?
+510,2023-10-20 14:30,,pending,email,205,Integrações,15,Estou com problemas para integrar minha conta com uma nova ferramenta de análise. Alguma coisa não está funcionando corretamente.
+511,2023-10-15 14:22,,escalated,email,245,Integrações,0,Estou com dificuldades para integrar minha conta com o plugin de e-mail marketing. Alguém pode me ajudar?
+512,2023-10-10 14:20,2023-10-10 14:52,resolved,email,204,Integrações,0,Estou tendo dificuldades para integrar minha conta da plataforma com o Shopify. Alguma orientação?
+513,2023-10-10 14:30,,pending,email,202,Acesso,10,"Estou com dificuldades para acessar minha conta, a senha não está funcionando."
+514,2023-10-15 14:20,2023-10-15 15:37,resolved,email,205,Checkout,0,"Estou com dificuldades para finalizar a compra de um novo produto, o sistema não está aceitando o meu cartão."
